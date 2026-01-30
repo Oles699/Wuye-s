@@ -1,15 +1,14 @@
-{
-  "cards": [
+cards:
+[
     {
-      "id": "001",
-      "name": "程知聿",
-      "fileName": "程知聿_1769764513509.png",
-      "filePath": "程知聿_1769764513509.png",
-      "coverPath": "程知聿封面.jpg",
-      "fileType": "png",
-      "uploadTime": "2025-01-30T12:00:00.000Z",
-      "gender": "female",
-      "intro": "与你的一千零一夜。"
+        "id": "001",
+        "name": "程知聿",
+        "fileName": "程知聿_1769764513509.png",
+        "filePath": "程知聿_1769764513509.png",
+        "coverPath": "程知聿封面.jpg",
+        "fileType": "png",
+        "uploadTime": "2025-01-30T12:00:00.000Z",
+        "gender": "female",
+        "intro": "与你的一千零一夜。"
     }
-  ]
-}
+]
